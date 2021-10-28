@@ -8,9 +8,9 @@
 
 # 함수형 설명글
  
-1. [환경설정](https://velog.io/@nara7875/lottery-Dapp%EA%B0%9C%EB%B0%9C-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-1%EB%8B%A8%EA%B3%84)
-2. [smart-contract](https://velog.io/@nara7875/2%EA%B0%95)
-3. [web3.js](https://velog.io/@nara7875/3%EA%B0%95-web%EB%A7%8C%EB%93%A4%EA%B8%B0)
+### 1. [환경설정](https://velog.io/@nara7875/lottery-Dapp%EA%B0%9C%EB%B0%9C-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-1%EB%8B%A8%EA%B3%84)
+### 2. [smart-contract](https://velog.io/@nara7875/2%EA%B0%95)
+### 3. [web3.js](https://velog.io/@nara7875/3%EA%B0%95-web%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 # 완성본
 
